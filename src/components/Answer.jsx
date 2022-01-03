@@ -8,10 +8,10 @@ const useStyles = makeStyles({
       color: '#FFB549',
       fontWeight: 600,
       marginBottom: '8px',
-      // '&:hover': {
-      //   backgroundColor: '#FF8E53',
-      //   color: '#fff',
-      // },
+      '&:hover': {
+        backgroundColor: '#FF8E53',
+        color: '#fff',
+      },
     },
 });
 const Answer = (props) => {
